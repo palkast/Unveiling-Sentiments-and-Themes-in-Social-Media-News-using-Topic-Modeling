@@ -16,3 +16,7 @@ It has the following components :
 7.Use sentient analysis using vader 
 8.Use OPen AI prompt engineering to do topic modeling.
 
+Pyldavis visualization of topic modelling :
+
+[![pyldavis.png](https://i.postimg.cc/tTWsP68p/pyldavis.png)](https://postimg.cc/6266x89m)
+
