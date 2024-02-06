@@ -1,4 +1,4 @@
-# Topic-modelling-using-LDA-model-and-sentiment-analysis-and-enhancement-using-Open-AI
+# Unveiling-Sentiments-and-Themes-in-Social-Media-News-using-Topic-Modeling
 Topic modelling using LDA model and sentiment analysis and enhancement using Open AI
 
 
